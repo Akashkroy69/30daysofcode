@@ -2,3 +2,4 @@
 2. Finding the 2nd largest element in an array in O(n) time
 3.maximum sum subarray  problem
 4. pushing all zeros to end of the array keeping other element of the array intact.
+5. Dutch flag problem
